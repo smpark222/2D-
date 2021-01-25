@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c802ca54e1324b4f9f435c3cfa6c980, type: 3}
+  m_Name: GunMan Data
+  m_EditorClassIdentifier: 
+  enemyType: 2
+  attackRange: 10
+  attackPrefab: {fileID: 590485288455370913, guid: 0edecb0c4dc6bd74c9b2d104ea974b54,
+    type: 3}
+  attackCoolTime: 1
+  sprite: {fileID: 21300000, guid: 605d21e20aed5ce46954a0c1d28fa172, type: 3}
+  animator: {fileID: 9100000, guid: e26870462f0c6a14192135eaef101c21, type: 2}

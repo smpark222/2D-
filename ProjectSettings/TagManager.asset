@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - Wall
+  - Stair
+  - BreakWall
+  - AttackEffect
+  - Map
+  - DownJumpWall
+  - Detecting
+  - EnemyDetecting
+  - playerHitBox
+  - EnemyAttackEffect
+  - Bullet
+  - ClearPoint
+  - GunManRespawn
+  - GruntRespawn
+  - LaserLIne
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Ground
+  - Wall
+  - Enemy
+  - EnemyWall
+  - DownStair
+  - Map
+  - UpStair
+  - Stair
+  - Player
+  - AttackEffect
+  - EnemyAttackEffect
+  - PlayerHead
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
